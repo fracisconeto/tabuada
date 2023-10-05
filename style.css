@@ -1,0 +1,9 @@
+body{
+    font-size: 25px;
+}
+.conteiner{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    margin: auto;
+}
